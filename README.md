@@ -1,2 +1,1 @@
-Thia is Thiago's first git project
- 
+This is Thiago's first git project
